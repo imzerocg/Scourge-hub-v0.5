@@ -1,4 +1,4 @@
--- ts file was generated at discord.gg/25ms
+-- this was made by SFH
 
 _G.FastAttack = true
 
